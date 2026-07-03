@@ -45,8 +45,6 @@ Building scalable cloud infrastructure, automating ML workflows, and engineering
 
 ## 📈 GitHub Stats
 
-> Replace `ranakeshav16` if you ever change your username.
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=ranakeshav16&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=ranakeshav16&theme=tokyonight)
