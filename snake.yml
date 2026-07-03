@@ -1,0 +1,13 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "Replace this workflow with the popular snake workflow after enabling GitHub Actions."
