@@ -79,10 +79,9 @@ Building scalable cloud infrastructure, automating ML workflows, and engineering
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ranakeshav16/ranakeshav16/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ranakeshav16/ranakeshav16/output/github-contribution-grid-snake-dark.svg">
 
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
