@@ -9,7 +9,7 @@ Building scalable cloud infrastructure, automating ML workflows, and engineering
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;MLOps+Enthusiast;Data+Engineering;Azure+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Engineer;MLOps+Enthusiast;Data+Engineering;Azure+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Technologies" />
 </p>
 
 ---
